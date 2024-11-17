@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </p>
 
-<h3>8. 🔄 Interaction de la page avec l'utilisateur</h3>
+<h3>8. 🔄 Interaction de la page avec l'utilisateur.</h3>
 <p>Fonctionnalités JavaScript :</p>
 <ul>
   <li>🔄 Dragging : Déplacement des tâches entre colonnes</li>
